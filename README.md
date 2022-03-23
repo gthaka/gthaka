@@ -1,8 +1,7 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=gthaka&show_icons=true">
-
-### Hi there 👋
+### Hi there 👋 
 
 I'm a passionate Software Developer. Currently working on enhancing my skills.
+
 - 💻 I work using:  
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
@@ -19,6 +18,9 @@ I'm a passionate Software Developer. Currently working on enhancing my skills.
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-white?style=plastic&logo=tailwindcss) 
   ![Sass](https://img.shields.io/badge/-Sass-gray?style=plastic&logo=sass) 
 - ⚡️ Fun fact: I enjoy travel
+
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=gthaka&show_icons=true&layout=compact">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=gthaka&show_icons=true&locale=en&layout=compact">
 
 [![GThaka's github activity graph](https://activity-graph.herokuapp.com/graph?username=gthaka&theme=react-dark)](https://github.com/gthaka)
 
