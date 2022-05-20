@@ -2,8 +2,6 @@
 
 I'm a passionate Software Developer. Currently working on enhancing my skills.
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=gthaka&show_icons=true&locale=en&layout=compact">
-
 - 💻 I work using:  
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
@@ -17,11 +15,12 @@ I'm a passionate Software Developer. Currently working on enhancing my skills.
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react) 
-  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-white?style=plastic&logo=tailwindcss) 
-  ![Sass](https://img.shields.io/badge/-Sass-gray?style=plastic&logo=sass) 
+  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-white?style=plastic&logo=tailwindcss)
 - ⚡️ Fun fact: I enjoy travel
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=gthaka&show_icons=true&layout=compact">
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=gthaka&show_icons=true&locale=en&layout=compact">
 
 [![GThaka's github activity graph](https://activity-graph.herokuapp.com/graph?username=gthaka&theme=react-dark)](https://github.com/gthaka)
 
