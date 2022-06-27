@@ -18,10 +18,19 @@ I'm a passionate Software Developer. Currently working on enhancing my skills.
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-white?style=plastic&logo=tailwindcss)
 - ⚡️ Fun fact: I enjoy travel
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=gthaka&show_icons=true&layout=compact">
+---
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=gthaka&show_icons=true&locale=en&layout=compact">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=gthaka&count_private=true&theme=github_dark"/>
 
-[![GThaka's github activity graph](https://activity-graph.herokuapp.com/graph?username=gthaka&theme=react-dark)](https://github.com/gthaka)
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=gthaka&show_icons=true&locale=en&count_private=true&theme=github_dark"/>
+
+---
+
+[![gthaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gthaka&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+----
+
+[![gthaka's github activity graph](https://activity-graph.herokuapp.com/graph?username=gthaka&theme=react-dark&count_private=true)](https://github.com/gthaka)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=gthaka.gthaka" alt="visitor badge"/>
