@@ -27,3 +27,10 @@ I'm a passionate Software Developer. Currently working on enhancing my skills.
 [![gthaka's github activity graph](https://activity-graph.herokuapp.com/graph?username=gthaka&theme=react-dark&count_private=true)](https://github.com/gthaka)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=gthaka.gthaka" alt="visitor badge"/>
+
+##  🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/githaka">
+ <img src="https://img.shields.io/badge/Githaka----brightgreen?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+ </p>
