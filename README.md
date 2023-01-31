@@ -8,6 +8,7 @@ I'm a passionate Software Developer. Currently working on enhancing my skills.
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
   ![Oracle](https://img.shields.io/badge/Oracle-red?style=plastic&logo=oracle)
 - 🌱 Learning all about:  
+  ![Elixir](https://img.shields.io/badge/-Elixir-black?style=plastic&logo=Elixir) 
   ![Springboot](https://img.shields.io/badge/-Springboot-black?style=plastic&logo=Springboot) 
   ![Next.JS](https://img.shields.io/badge/-Next.JS-black?style=plastic&logo=Next.js) 
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-white?style=plastic&logo=tailwindcss)
