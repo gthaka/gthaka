@@ -19,7 +19,7 @@ I'm a passionate Software Developer. Currently working on enhancing my skills.
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=gthaka&show_icons=true&locale=en&count_private=true&theme=github_dark"/>
 
 
-[![gthaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gthaka&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![gthaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@gthaka&range=last_7_days&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 
