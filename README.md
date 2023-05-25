@@ -23,7 +23,7 @@ I'm a passionate Software Developer. Currently working on enhancing my skills.
 
 ----
 
-[![gthaka's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gthaka&theme=react-dark&count_private=true)](https://github.com/gthaka)
+[![gthaka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gthaka&theme=react-dark&count_private=true)](https://github.com/gthaka)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=gthaka.gthaka" alt="visitor badge"/>
 
