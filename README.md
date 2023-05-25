@@ -12,20 +12,20 @@ I'm a passionate Software Developer. Currently working on enhancing my skills.
   ![Next.JS](https://img.shields.io/badge/-Next.JS-black?style=plastic&logo=Next.js) 
 - ⚡️ Fun fact: I enjoy travel
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=gthaka.gthaka" alt="visitor badge"/>
+
 ---
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=gthaka&count_private=true&theme=github_dark"/>
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=gthaka&count_private=true&theme=github_dark&hide_border=true"/>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=gthaka&show_icons=true&locale=en&count_private=true&theme=github_dark"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=gthaka&show_icons=true&locale=en&count_private=true&theme=github_dark&hide_border=true&layout=donut"/>
 
 
-[![gthaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@gthaka&range=last_7_days&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![gthaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@gthaka&range=last_7_days&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 
-[![gthaka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gthaka&theme=react-dark&count_private=true)](https://github.com/gthaka)
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=gthaka.gthaka" alt="visitor badge"/>
+[![gthaka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gthaka&theme=react-dark&count_private=true&hide_border=true)](https://github.com/gthaka)
 
 ##  🤝🏻 &nbsp;Connect with Me
 
