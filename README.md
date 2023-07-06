@@ -14,6 +14,7 @@ I'm a Full stack Software Developer with a knack for providing innovative soluti
 <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/face-with-peeking-eye_1fae3.gif" height="28px"/> ![Visitor Count](https://profile-counter.glitch.me/gthaka/count.svg "Visitor Count 🫣")
 
 ___
+
 ### 📊 Github Stats
 
 <table border="0"><tr><td valign="top" width="50%">
@@ -23,6 +24,21 @@ ___
 </td><td valign="center" width="50%">
 
 <img src="./assets/metrics.plugin.isocalendar.fullyear.svg" >
+
+</td></tr></table>
+
+___
+
+### 📊 Waka Stats
+
+<table border="0"><tr><td valign="top" width="50%">
+<br>
+  
+<img src="./assets/metrics.plugin.wakatime.svg">
+  
+</td><td valign="top" width="50%">
+  
+![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gthaka&langs_count=8&theme=transparent&hide=other&hide_border=true)
 
 </td></tr></table>
 
