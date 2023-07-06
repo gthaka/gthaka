@@ -15,11 +15,14 @@ jobs:
           filename: assets/metrics.plugin.achievements.svg
 
           # Options
-          user: ${{ github.repository_owner }}
-          template: classic
+          user: gthaka
           base: ""
           config_timezone: Africa/Nairobi
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          plugin_achievements_threshold: X
+
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
