@@ -15,7 +15,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_topics: yes
-          plugin_topics_limit: 12
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
           # Options
           user: ${{ github.repository_owner }}
           config_timezone: Africa/Nairobi
