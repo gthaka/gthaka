@@ -1,35 +1,67 @@
-### Hi there 👋 
+### <div>Hi There!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></div>  
+  
 
-I'm a passionate Software Developer. Currently working on enhancing my skills.
+I'm a Full stack Software Developer with a knack for providing innovative solutions  
+  
+- 🔭 I’m currently working on freelancing
 
-- 💻 I work using:  
-  ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-- 🌱 Learning all about:  
-  ![Elixir](https://img.shields.io/badge/-Elixir-black?style=plastic&logo=Elixir) 
-  ![Springboot](https://img.shields.io/badge/-Springboot-black?style=plastic&logo=Springboot) 
-  ![Next.JS](https://img.shields.io/badge/-Next.JS-black?style=plastic&logo=Next.js) 
-- ⚡️ Fun fact: I enjoy travel
+- 🥅 Current goal: Learn more about Functional Programming 
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=gthaka.gthaka" alt="visitor badge"/>
+- 📬 I’m reachable via my socials  
+  
+- ⚡ Fun fact: I enjoy travel
+
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/face-with-peeking-eye_1fae3.gif" height="28px"/> ![Visitor Count](https://profile-counter.glitch.me/gthaka/count.svg "Visitor Count 🫣")
+
+___
+### 📊 Github Stats
+
+<table border="0"><tr><td valign="top" width="50%">
+<br>
+<img src="./assets/metrics.plugin.overview.svg">
+
+</td><td valign="center" width="50%">
+
+<img src="./assets/metrics.plugin.isocalendar.fullyear.svg" >
+
+</td></tr></table>
 
 ---
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=gthaka&count_private=true&theme=github_dark&hide_border=true"/>
+<div>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=gthaka&show_icons=true&locale=en&count_private=true&theme=github_dark&hide_border=true&layout=donut"/>
+### <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/face-in-clouds_1f636-200d-1f32b-fe0f.gif" height="30px" /> Tech Topics
 
+<details>
+<summary>Expand</summary>
 
-[![gthaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@gthaka&range=last_7_days&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="./assets/metrics.plugin.stared-topics.svg" width="100%" />
 
-----
+</details>
 
-[![gthaka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gthaka&theme=react-dark&count_private=true&hide_border=true)](https://github.com/gthaka)
+</div>
 
-##  🤝🏻 &nbsp;Connect with Me
+<div>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/githaka">
- <img src="https://img.shields.io/badge/Githaka----brightgreen?style=flat-square&logo=Linkedin&logoColor=white"/></a>
- </p>
+### 🏆 Worth
+
+<details>
+<summary>Expand</summary>
+
+<img src="./assets/metrics.plugin.achievements.svg" width="100%" />
+
+</details>
+
+</div>
+
+---
+###  <img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" height="25px" /> Connect with Me
+
+<a href="https://twitter.com/gthaka"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@gthaka"></a>
+<a href="https://www.linkedin.com/in/githaka/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:antonwakaf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="antonwakaf@gmail.com"></a>
+<a href="discordapp.com/users/gthaka"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="gthaka" ></a>
+[![Buy me Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gthaka) 
+
+<img src="https://raw.githubusercontent.com/gthaka/gthaka/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
