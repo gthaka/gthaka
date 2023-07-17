@@ -11,8 +11,6 @@ I'm a Full stack Software Developer with a knack for providing innovative soluti
   
 - ⚡ Fun fact: I enjoy travel
 
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/face-with-peeking-eye_1fae3.gif" height="28px"/> ![Visitor Count](https://profile-counter.glitch.me/gthaka/count.svg "Visitor Count 🫣")
-
 ___
 
 ### 📊 Github Stats
