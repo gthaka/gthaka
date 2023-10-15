@@ -3,7 +3,7 @@
 
 I'm a Full stack Software Developer with a knack for providing innovative solutions  
   
-- 🔭 I’m currently working on freelancing
+- 🔭 I’m currently working with Elixir, Phoenix Framework
 
 - 🥅 Current goal: Learn more about Functional Programming 
 
