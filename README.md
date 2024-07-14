@@ -15,32 +15,27 @@ ___
 
 ### 📊 Github Stats
 
-<table border="0"><tr><td valign="top" width="50%">
-<br>
-<img src="./assets/metrics.plugin.overview.svg">
+<picture>
+  <img src="./assets/metrics.plugin.overview.svg" alt="Metrics Overview" width="80%">
+</picture>
 
-</td><td valign="center" width="50%">
-
-<img src="./assets/metrics.plugin.isocalendar.fullyear.svg" >
-
-</td></tr></table>
+<picture>
+  <img src="./assets/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics Full Year" width="80%">
+</picture>
 
 ___
 
 ### 📊 Waka Stats
 
-<table border="0"><tr><td valign="top" width="50%">
-<br>
-  
-<img src="./assets/metrics.plugin.wakatime.svg">
-  
-</td><td valign="top" width="50%">
-  
-![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gthaka&langs_count=8&theme=transparent&hide=other&hide_border=true)
+<picture>
+  <img src="./assets/metrics.plugin.wakatime.svg" alt="Metrics Wakatime" width="80%">
+</picture>
 
-</td></tr></table>
+<picture>
+  ![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gthaka&langs_count=8&theme=transparent&hide=other&hide_border=true)
+</picture>
 
----
+___
 
 <div>
 
@@ -57,12 +52,14 @@ ___
 
 <div>
 
-### 🏆 Worth
+### 🏆 Achievements
 
 <details>
 <summary>Expand</summary>
 
-<img src="https://metrics.lecoq.io/gthaka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Africa%2FNairobi&config.octicon=true" width="100%" />
+<picture>
+  <img src="./assets/metrics.plugin.achievements.compact.svg" alt="Metrics Archievments" width="100%">
+</picture>
 
 </details>
 
