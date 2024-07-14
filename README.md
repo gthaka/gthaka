@@ -32,7 +32,7 @@ ___
 </picture>
 
 <picture>
-  ![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gthaka&langs_count=8&theme=transparent&hide=other&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gthaka&langs_count=8&theme=transparent&hide=other&hide_border=true" alt="Wakatime Week stats"  width="80%" />
 </picture>
 
 ___
