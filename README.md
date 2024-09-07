@@ -5,7 +5,7 @@ I'm a Full stack Software Developer with a knack for providing innovative soluti
   
 - 🔭 I’m currently working with Elixir, Phoenix Framework
 
-- 🥅 Current goal: Learn more about Functional Programming 
+- 🥅 Current goal: Revisit Pipelines 🪈 
 
 - 📬 I’m reachable via my socials  
   
