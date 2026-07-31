@@ -25,18 +25,6 @@ ___
 
 ___
 
-### 📊 Waka Stats
-
-<picture>
-  <img src="./assets/metrics.plugin.wakatime.svg" alt="Metrics Wakatime" width="80%">
-</picture>
-
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gthaka&langs_count=8&theme=transparent&hide=other&hide_border=true" alt="Wakatime Week stats"  width="80%" />
-</picture>
-
-___
-
 <div>
 
 ### <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/face-in-clouds_1f636-200d-1f32b-fe0f.gif" height="30px" /> Tech Topics
